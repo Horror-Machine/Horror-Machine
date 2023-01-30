@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Horror Machine</title>
+</head>
+<body>
+  <header>
+    <h1>Horror Machine</h1>
+    <nav>
+      <a href="#">Home</a> |
+      <a href="#">About</a> |
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Sci Fi Horror News</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam bibendum, urna non facilisis commodo, metus est fringilla metus, eu malesuada velit lacus vel est.</p>
+    <h2>Section 1</h2>
+    <p>Vivamus bibendum neque quis libero pulvinar, id vestibulum dui molestie. Maecenas hendrerit tellus nec lectus pellentesque, in feugiat erat elementum.</p>
+    <h2>Section 2</h2>
+    <p>Etiam auctor, magna a blandit suscipit, justo lectus dapibus magna, eget bibendum lectus ipsum sit amet nunc. Aliquam erat volutpat.</p>
+
+<ul>
+<li><a href="#">Article 1</a></li>
+<li><a href="#">Article 2</a></li>
+<li><a href="#">Article 3</a></li>
+<li><a href="#">Article 4</a></li>
+</ul>
+  </main>
+  <footer>
+    <p>Copyright © 2023</p>
+  </footer>
+</body>
+</html>
